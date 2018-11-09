@@ -1,4 +1,4 @@
-# article_spinner_NLP_python
+# Article Spinner NLP in Python
 
 An article spinner
 
